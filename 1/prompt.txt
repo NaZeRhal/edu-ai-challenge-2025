@@ -1,0 +1,7 @@
+I'm selecting the database for a new application. I have the following requirements:
+1. Social platform with millions of users
+2. Need to store profiles, posts, and connections between users
+3. High data read speed required
+4. Expected 80% read operations, 20% write operations
+5. Scalability is important as the user base grows
+Using Chain-of-Thought reasoning analyze a given set of project requirements. Justify and select the most suitable type of database for the project.
