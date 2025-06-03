@@ -1,0 +1,8 @@
+I found a bug. "Logout button doesn’t work on Safari. It just doesn’t respond." I need to create a clear, well-structured bug ticket. The output should follow this format:
+Title
+Description
+Steps to Reproduce
+Expected vs Actual Behavior
+Environment (if known)
+Severity or Impact
+I need the output in .md format
