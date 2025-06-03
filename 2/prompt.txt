@@ -1,9 +1,9 @@
-I found a bug. "Logout button doesn’t work on Safari. It just doesn’t respond." I need to create a clear, well-structured bug ticket. The output should follow this format:
+I've identified a specific bug on our Dashboard. The logout button, located in the user profile dropdown menu, isn't functioning correctly. When I'm using Safari version 17.4.1 on macOS Sonoma 14.4.1, clicking the logout button does absolutely nothing; the page doesn't change and I stay logged in. The login page is typically https://testsite.com/login. This seems like a high severity issue because users can't securely end their sessions, which is a potential security risk, especially on shared devices, and could impact user trust.
+I need to create a clear, well-structured bug ticket based on this. The output should follow this format:
 Title
 Description
 Steps to Reproduce
 Expected vs Actual Behavior
-Environment (if known)
+Environment
 Severity or Impact
-
 I need the output in markdown format. Can you create a file result.md and put the response there?
