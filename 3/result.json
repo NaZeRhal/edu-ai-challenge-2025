@@ -1,12 +1,20 @@
 {
-  "summary": "The provided text discusses the increasing popularity of remote work, detailing its advantages such as higher employee job satisfaction and lower operational costs for companies. It also addresses significant challenges, including employee isolation, potential productivity issues, and difficulties in performance monitoring. The text concludes that remote work, likely in hybrid models, is a lasting trend, with technological advancements facilitating its success.",
-  "sentiment_classification": "Neutral",
-  "sentiment_score": 0.1,
+  "summary": "Remote work, or telecommuting, has gained popularity, especially since the global pandemic. It offers advantages like higher job satisfaction for employees due to no commutes and better work-life balance, and lower operational costs for companies. However, it also presents challenges such as employee isolation, potential productivity issues, and difficulties for employers in monitoring performance and maintaining communication. Despite these challenges, remote work is expected to continue, with hybrid models and improving technology supporting its viability.",
+  "sentiment_analysis": {
+    "sentiment_classification": "neutral",
+    "sentiment_score": 0,
+    "explanation": "The text presents a balanced view of remote work, detailing both its significant advantages and notable disadvantages. It concludes on a neutral, forward-looking note about the persistence of remote and hybrid models."
+  },
   "metadata": {
-    "filename": "text3.txt",
-    "text_length_chars": 1286,
-    "text_length_words": 222,
-    "analysis_timestamp": "2024-05-16T10:30:00Z",
-    "notes": "The text presents a balanced view, discussing both pros and cons of remote work. The slightly positive score (0.1) reflects the concluding optimistic outlook on the future of remote work and its evolution with technology, despite the acknowledged challenges."
+    "document_length_words": 199,
+    "source_text_provided": true,
+    "key_themes": [
+      "remote work",
+      "telecommuting",
+      "advantages",
+      "challenges",
+      "hybrid models",
+      "future of work"
+    ]
   }
 }
