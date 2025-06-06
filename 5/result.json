@@ -1,0 +1,40 @@
+[
+  {
+    "sentiment": "Negative",
+    "isRelevant": true,
+    "mainSubject": "Sensor and dongle malfunction",
+    "positives": [],
+    "painPoints": [
+      "Sensor periodically stops tracking, even at 8000hz",
+      "Tracking issue persists in wired mode",
+      "Received a defective unit with a non-working dongle",
+      "High price for a product with significant defects"
+    ],
+    "improvementSuggestions": [
+      "Fix sensor tracking stability",
+      "Improve quality control to prevent shipping defective units"
+    ],
+    "featuresMentioned": [
+      "Sensor",
+      "Tracking",
+      "Polling rate (8000hz)",
+      "Wired mode",
+      "Wireless dongle",
+      "Price"
+    ],
+    "userExpertise": "Experienced"
+  },
+  {
+    "sentiment": "Mixed",
+    "isRelevant": true,
+    "mainSubject": "Price-performance value",
+    "positives": ["Considered a flawless product"],
+    "painPoints": [
+      "Not worth the high price",
+      "Performance is comparable to cheaper alternatives"
+    ],
+    "improvementSuggestions": ["Lower the price to be more competitive"],
+    "featuresMentioned": ["Price", "Specs", "Performance"],
+    "userExpertise": "Experienced"
+  }
+]
